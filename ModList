@@ -1,42 +1,48 @@
 //Mod List for DirtHuts 1.10.2
 
-Forge 12.18.1.2052
+Forge 12.18.1.2073
 
 ActuallyAdditions-1.10.2-r60.jar
-Adamantium Mod-1.6.1.jar
-AppleCore-mc1.10.2-1.3.5.jar
+Adamantium Mod-1.6.2.jar
+AppleSkin-mc1.10.2-1.0.1.jar
 Aroma1997Core-1.9.4-1.1.0.3.jar
 Aroma1997s-Dimensional-World-1.9.4-1.2.0.1.jar
-Bagginses-1.10-3.0.3.jar
+Bagginses-1.10.2-3.0.4a.jar
 Baubles-1.9.4-1.2.1.0.jar
 bdlib-1.12.0.2-mc1.10.2.jar
 BetterAchievements-1.10.2-0.3.0.30.jar
-BiomesOPlenty-1.9.4-4.1.0.2066-universal.jar
+BiomesOPlenty-1.10.2-5.0.0.2074-universal.jar
 BloodArsenal-1.10.2-2.0.1-11.jar
-BloodMagic-1.9.4-2.0.3-54.jar
+BloodMagic-1.9.4-2.0.4-56.jar
 Bookshelf-1.10.2-1.3.0.282.jar
-Botania-unofficial.r1.8-315.jar
-Chameleon-1.9.4-2.1.6.jar
+Botania-unofficial.r1.8-316.jar
+Chameleon-1.9.4-2.1.7.jar
 Chisel-MC1.9.4-0.0.6.33.jar
 chiselsandbits-11.10.jar
+ClayBucket-1.9.4-1.1.jar
 CodeChickenCore-1.10.2-2.1.8.79-universal.jar
+CodeChickenLib-1.10.2-2.2.3.57-universal.jar
 combathelp-1.9.4-1.0.3.jar
 CompactSolars-1.10.2-5.0.4.328-universal.jar
 CookingForBlockheads_1.10.2-4.1.12.jar
-CyclopsCore-1.9.4-0.7.5.jar
+CraftTweaker-1.10.2-3.0.10.jar
+CyclopsCore-1.9.4-0.7.6.jar
 DarkUtilities-1.10.2-1.1.3.70.jar
 deepresonance-1.10-1.2.1beta38.jar
+EJML-core-0.26.jar
 ElecCore-1.9.4-1.5.303.jar
-EnderCore-1.10.2-0.4.1.47-beta.jar
-EnderIO-1.10.2-3.0.1.92_beta.jar
-EvilCraft-1.10.2-0.10.8.jar
+EnderCore-1.10.2-0.4.1.51-beta.jar
+EnderIO-1.10.2-3.0.1.95_beta.jar
+EvilCraft-1.10.2-0.10.10.jar
 extrautils2-1.10.2-alpha-1.0.1.jar
-forestry_1.10.2-5.2.8.234.jar
+forestry_1.10.2-5.2.9.241.jar
 generators-0.9.20.4-mc1.10.2.jar
 GraveStone Mod 1.5.5.jar
+Guide-API-1.10.2-2.0.2-45.jar
+ImmersiveEngineering-0.10-38.jar
 industrialcraft-2-2.6.37-ex110.jar
 InventoryTweaks-1.61-58.jar
-jei_1.10.2-3.8.0.240.jar
+jei_1.10.2-3.9.0.246.jar
 jeibees-0.9.0.1-mc1.10.2.jar
 journeymap-1.10.2-5.2.4-unlimited.jar
 LLOverlayReloaded-1.1.0-mc[1.9-1.10.2].jar
@@ -44,26 +50,29 @@ Mantle-1.10.2-0.10.4.jar
 mcjtylib-1.10-1.9.9.jar
 MCMultiPart-1.2.1-universal.jar
 MmmMmmMmmMmm-1.11.jar
+ModTweaker2-2.0.0.jar
 NoMobSpawningOnTrees-1.1.7-mc[1.9.4-1.10.2].jar
 notenoughwands-1.9.4-1.3.5.jar
 OpenComputers-MC1.10.2-1.6.0.3-rc.1.jar
+Pam's Clay Spawn 1.9.4-1.10.2a.jar
 Pam's HarvestCraft 1.9.4-1.10.2b.jar
 ProgressiveAutomation-1.10.2-1.6.49.jar
 Psi-r1.0-37.jar
-Quark-beta-50.jar
+Quark-r1.0-52.jar
 RandomThings-MC1.10.2-3.7.5.jar
-refinedstorage-0.8.18.jar
-Reliquary-1.10.2-1.3.3.455.jar
-rftools-1.10-5.14.jar
-roots-1.10.2-0.110.0.jar
-SoulShards-TOW-1.10.2-2.6.1-41.jar
+refinedstorage-0.8.20.jar
+Reliquary-1.10.2-1.3.3.496.jar
+rftools-1.10-5.17.jar
+roots-1.10.2-0.112.0.jar
+SoulShards-TOW-1.10.2-2.6.2-42.jar
 StacksOnStacks2-1.1.4.jar
-StorageDrawers-1.10.2-3.2.3.jar
-supercraftingframe-1.10.2-1.2.0.85.jar
-TConstruct-1.10.2-2.4.0.jenkins312.jar
+StorageDrawers-1.10.2-3.2.6.jar
+supercraftingframe-1.10.2-1.2.0.87.jar
+Survivalist-1.10.2-1.6.5.jar
+TConstruct-1.10.2-2.4.0.jar
 theoneprobe-1.10-1.0.15.jar
 ToughAsNails-1.9.4-1.0.11.jar
 Translocators-1.10.2-2.1.2.29-universal.jar
 Waila-1.7.0-B3_1.9.4.jar
-WailaHarvestability-mc1.10-1.1.7.jar
+WailaHarvestability-mc1.10.2-1.1.8.jar
 Wawla-1.10.2-2.3.0.197.jar
