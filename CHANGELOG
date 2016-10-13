@@ -1,3 +1,71 @@
+DirtHuts 0.7
+
+Update:
+
+Forge-1.10.2-12.18.2.2098
+
+ActuallyAdditions-1.10.2-r66.jar
+Bagginses-1.10.2-3.0.4e.jar
+Baubles-1.10.2-1.3.BETA9.jar
+bdlib-1.12.2.14-mc1.10.2.jar
+BiomesOPlenty-1.10.2-5.0.0.2087-universal.jar
+Bookshelf-1.10.2-1.4.2.327.jar
+Botania r1.9-330.jar
+Chisel-MC1.9.4-0.0.6.51.jar
+chiselsandbits-12.5.jar
+CodeChickenCore-1.10.2-2.3.2.82-universal.jar
+CodeChickenLib-1.10.2-2.4.1.101-universal.jar
+CommonCapabilities-1.9.4-1.2.0.jar
+covers-0.4.0.9-mc1.10.2.jar
+crossroads-1.10.2-1.1.6.jar
+CyclopsCore-1.9.4-0.8.0.jar
+deepresonance-1.10-1.2.9.jar
+ElecCore-1.10.2-1.6.326.jar
+EvilCraft-1.10.2-0.10.12.jar
+extrautils2-1.10.2-alpha-1.1.0c.jar
+forestry_1.10.2-5.2.14.270.jar
+FTBLib-1.10.2-3.0.0.4.jar
+FTBUtilities-1.10.2-3.0.0.3.jar
+generators-0.9.20.15-mc1.10.2.jar
+GraveStone Mod 1.5.7.jar
+IntegratedDynamics-1.10.2-0.6.0.jar
+jei_1.10.2-3.12.7.314.jar
+jeibees-0.9.0.3-mc1.10.2.jar
+Psi-r1.0-41.jar
+rftoolsctrl-1.10-1.4.0.jar
+SoulShards-TOW-1.10.2-2.6.4-44.jar
+supercraftingframe-1.10.2-1.2.1.88.jar
+TConstruct-1.10.2-2.5.5.jar
+theoneprobe-1.10-1.1.5.jar
+Totemic-1.9.4-0.7.8.1.jar
+Translocators-1.10.2-2.1.3.32-universal.jar
+
+Added:
+Advanced Machines-60.0.0.jar
+Ceramics-1.10.2-1.1.1.jar
+CraftingTweaks_1.10.2-6.1.16.jar
+IntegratedTunnels-1.10.2-1.0.0.jar
+JustEnoughResources-1.10.2-0.5.2.57.jar
+modnametooltip_1.10.2-1.6.0.jar
+MouseTweaks-2.6.4-mc1.10.2.jar
+Signals-1.10.2-0.5.0-universal.jar
+topaddons-1.10.2-0.7.0.jar
+Waddles-1.10.2-0.5.0.jar
+
+Removed:
+ClayBucket-1.9.4-1.1.jar
+embers-0.005.jar
+StacksOnStacks2-1.1.4.jar(Issues with Sponge)
+
+Configs/Changes:
+Enabled All Bagginses Bags
+Disabled a lot of Update Checks
+Disabled Totemic EasterEgg(NoMoreFloweyCraft)
+NotEnoughWands RF Config Overhaul
+Due to WorldPregen on Server, Changes have been made to:
+-NotEnoughWands(Disable Dungeon Loot)
+
+
 0.6
 
 Update:
@@ -35,7 +103,6 @@ flatcoloredblocks-mc1.10-v4.2.jar
 Railcraft_1.10.2-10.0.0-beta-2.jar
 RefinedRelocation-mc1.10.2-2.1.16.jar
 rftoolsctrl-1.10-1.3.3.jar
-
 
 
 0.5
@@ -95,7 +162,6 @@ Removed:
 ExtremeReactors-1.9.4-0.4.5.13.jar
 ShadowMC-1.10.2-3.4.4.jar
 zerocore-1.10.2-0.0.8.0.jar
-
 
 
 0.4
